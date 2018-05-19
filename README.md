@@ -1,6 +1,7 @@
 # SnapFood
 A food recognition Android app that allows users to track the calories they consume and provides intelligent food suggestions based on their diet.
 
+
 ![GitHub Logo](/images/image1.jpg)
 ![GitHub Logo](/images/image2.jpg)
 ![GitHub Logo](/images/image3.jpg)
