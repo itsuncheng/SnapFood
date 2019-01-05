@@ -1,5 +1,5 @@
 # SnapFood
-A food recognition Android app that tracks the users' diet and provide intelligent feedback to meet their personalized goals. I developed this on my own for my IB Computer Science Internal Assessment. 
+A food recognition Android app that tracks the users' diet and provides intelligent feedback to meet their personalized goals. I developed this on my own for my IB Computer Science Internal Assessment. 
 
 
 ## Functionalities
